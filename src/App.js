@@ -6,6 +6,9 @@ import Exchanges from "./components/Exchanges";
 import CoinDetails from "./components/CoinDetails";
 import Footer from "./components/Footer";
 
+
+//Hello my name is Awan Yadav
+
 function App() {
   return (
     <Router>
